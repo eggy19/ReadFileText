@@ -1,6 +1,0 @@
-6 Juni 2021
-Problem:
-Ratio Tinggi di 30 namun idle masih 50up.
-solusi:
-bang misal begitu lagi ngatasinya gmn? diturinin dulu ya rationya? tadi sempat liat ke 10 dulu terus ke 15,20.
-Nah... Bener...turunin dulu. Ratio nya terlalu besar. Gak imbang sama sip trunk
